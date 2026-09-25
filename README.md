@@ -1,7 +1,14 @@
-## Hi there 👋
+### Hi there, I'm MGhosthat 👋
+
+I'm an aspiring Penetration Tester currently building my hands-on offensive security foundation from the ground up. I love breaking systems in safe environments to figure out how to secure them better.
+
+- 🎯 **Goal:** Working towards becoming a Junior Penetration Tester | Open to remote internships and entry-level security opportunities.
+- 🛠️ **Current Focus:** Practicing core Linux skills, networking fundamentals, and hands-on labs on TryHackMe.
+- 📂 **Journey Log:** Check out my [Security-journey repository](https://github.com/MGhosthat/Security-journey) to see my lab write-ups, tools, and notes.
+- 📫 **Let's Connect:** Find me on [www.linkedin.com/in/adegboyega-adedimeji-443073205] always open to talking tech, labs, or cybersecurity!
 
 <!--
-**MGhosthat/MGhosthat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MGhostat/MGhosthat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
